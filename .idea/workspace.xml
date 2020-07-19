@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a971b0f8-6ba0-459c-ab2b-ff700af7b89f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/app/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="a971b0f8-6ba0-459c-ab2b-ff700af7b89f" name="Default Changelist" comment="丽丽" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,8 +56,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595120790085</updated>
-      <workItem from="1595120795147" duration="1982000" />
+      <workItem from="1595120795147" duration="2304000" />
     </task>
+    <task id="LOCAL-00001" summary="丽丽">
+      <created>1595164334819</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595164334819</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,5 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="丽丽" />
+    <option name="LAST_COMMIT_MESSAGE" value="丽丽" />
   </component>
 </project>
