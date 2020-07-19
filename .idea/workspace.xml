@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a971b0f8-6ba0-459c-ab2b-ff700af7b89f" name="Default Changelist" comment="丽丽">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="a971b0f8-6ba0-459c-ab2b-ff700af7b89f" name="Default Changelist" comment="啦啦啦">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/app/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595120790085</updated>
-      <workItem from="1595120795147" duration="2707000" />
+      <workItem from="1595120795147" duration="3124000" />
     </task>
     <task id="LOCAL-00001" summary="丽丽">
       <created>1595164334819</created>
@@ -79,7 +79,28 @@
       <option name="project" value="LOCAL" />
       <updated>1595164391796</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="啦啦啦">
+      <created>1595164796723</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595164796723</updated>
+    </task>
+    <task id="LOCAL-00004" summary="啦啦啦">
+      <created>1595164915830</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595164915830</updated>
+    </task>
+    <task id="LOCAL-00005" summary="啦啦啦">
+      <created>1595164993947</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595164993947</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,7 +120,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="丽丽" />
-    <option name="LAST_COMMIT_MESSAGE" value="丽丽" />
+    <MESSAGE value="啦啦啦" />
+    <option name="LAST_COMMIT_MESSAGE" value="啦啦啦" />
   </component>
   <component name="WindowStateProjectService">
     <state x="837" y="392" width="242" height="300" key="#Notifications" timestamp="1595164388605">
@@ -110,9 +132,13 @@
       <screen x="0" y="27" width="1920" height="1052" />
     </state>
     <state x="754" y="183" width="407" height="718" key="RollbackChangesDialog/0.27.1920.1052@0.27.1920.1052" timestamp="1595164441802" />
-    <state x="558" y="268" width="800" height="547" key="Vcs.Push.Dialog.v2" timestamp="1595164340539">
+    <state x="558" y="232" width="800" height="547" key="Vcs.Push.Dialog.v2" timestamp="1595164997843">
       <screen x="0" y="27" width="1920" height="1052" />
     </state>
-    <state x="558" y="268" width="800" height="547" key="Vcs.Push.Dialog.v2/0.27.1920.1052@0.27.1920.1052" timestamp="1595164340539" />
+    <state x="558" y="232" width="800" height="547" key="Vcs.Push.Dialog.v2/0.27.1920.1052@0.27.1920.1052" timestamp="1595164997843" />
+    <state x="742" y="445" width="436" height="194" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595164818027">
+      <screen x="0" y="27" width="1920" height="1052" />
+    </state>
+    <state x="742" y="445" width="436" height="194" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1052@0.27.1920.1052" timestamp="1595164818027" />
   </component>
 </project>
